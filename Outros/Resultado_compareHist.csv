@@ -1,0 +1,17 @@
+;0;1;Metodo
+0;1.0;C:\Users\megan\Desktop\Github Udemy Curso\UdemyPythonOpencv\3 - Pre-Processamento\apple1.jpg;Correlation
+1;0.9977949986529369;C:\Users\megan\Desktop\Github Udemy Curso\UdemyPythonOpencv\3 - Pre-Processamento\apple2.jpg;Correlation
+2;0.99374455258592;C:\Users\megan\Desktop\Github Udemy Curso\UdemyPythonOpencv\3 - Pre-Processamento\apple_green.jpg;Correlation
+3;0.9865322210986823;C:\Users\megan\Desktop\Github Udemy Curso\UdemyPythonOpencv\3 - Pre-Processamento\apple3.jpg;Correlation
+0;0.0;C:\Users\megan\Desktop\Github Udemy Curso\UdemyPythonOpencv\3 - Pre-Processamento\apple1.jpg;Chi-Squared
+1;0.46854840131568914;C:\Users\megan\Desktop\Github Udemy Curso\UdemyPythonOpencv\3 - Pre-Processamento\apple2.jpg;Chi-Squared
+2;4.982400138697053;C:\Users\megan\Desktop\Github Udemy Curso\UdemyPythonOpencv\3 - Pre-Processamento\apple_green.jpg;Chi-Squared
+3;8.074007497620023;C:\Users\megan\Desktop\Github Udemy Curso\UdemyPythonOpencv\3 - Pre-Processamento\apple3.jpg;Chi-Squared
+0;1.3534432270998877;C:\Users\megan\Desktop\Github Udemy Curso\UdemyPythonOpencv\3 - Pre-Processamento\apple1.jpg;Intersection
+1;1.2569620175636373;C:\Users\megan\Desktop\Github Udemy Curso\UdemyPythonOpencv\3 - Pre-Processamento\apple2.jpg;Intersection
+2;1.1398096398916095;C:\Users\megan\Desktop\Github Udemy Curso\UdemyPythonOpencv\3 - Pre-Processamento\apple3.jpg;Intersection
+3;1.0351118630470637;C:\Users\megan\Desktop\Github Udemy Curso\UdemyPythonOpencv\3 - Pre-Processamento\apple_green.jpg;Intersection
+0;0.0;C:\Users\megan\Desktop\Github Udemy Curso\UdemyPythonOpencv\3 - Pre-Processamento\apple1.jpg;Bhattacharyya
+1;0.1610709497331469;C:\Users\megan\Desktop\Github Udemy Curso\UdemyPythonOpencv\3 - Pre-Processamento\apple2.jpg;Bhattacharyya
+2;0.34973544724834466;C:\Users\megan\Desktop\Github Udemy Curso\UdemyPythonOpencv\3 - Pre-Processamento\apple3.jpg;Bhattacharyya
+3;0.38059305604662713;C:\Users\megan\Desktop\Github Udemy Curso\UdemyPythonOpencv\3 - Pre-Processamento\apple_green.jpg;Bhattacharyya
