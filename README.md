@@ -1,2 +1,2 @@
 # basic-opencv-study
- Estudo focado em OpenCV
+ Estudo focado em Computer Vision.
