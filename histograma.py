@@ -39,11 +39,25 @@ img = cv2.imread('imagens/colorida.jpg')
 # Fazer o split da imagem para cada canal de cor que a imagem colorida possui RGB
 b, g, r = cv2.split(img)
 
-plt.imshow(img)
+fig = plt.figure(figsize=(20, 5))
+
+ax1 = fig.add_subplot(131)
+ax1.hist(b.ravel(), 256, [0, 256])
+plt.title('Histograma do canal azul')
+
+ax2 = fig.add_subplot(132)
+ax2.hist(g.ravel(), 256, [0, 256])
+plt.title('Histograma do canal verde')
+
+ax3 = fig.add_subplot(133)
+ax3.hist(r.ravel(), 256, [0, 256])
+plt.title('Histograma do canal vermelho')
+
 plt.show()
 
-
-
+'''
+Histograma de imagens em tons de cinza e coloridas.
+'''
 
 
 
